@@ -1,4 +1,4 @@
-RP-PICO-W-BLE-Camera-Shutter-Remote
+# RP-PICO-W-BLE-Camera-Shutter-Remote
 
 The RP PICO W uses the CYW43439 WIFI/BT chipset to get wireless features from the RP2040 Microcontroller.
 
